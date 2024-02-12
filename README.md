@@ -1,7 +1,6 @@
--I'm Racecar-Roaster.
+-I'm Racecar-roaster aka Jaske. 
+Jaske isn't my real name it's just a nickname for the sake of personal stuff.
 
--I'm learning to code rn
+-Also in fact I, myself, am doing the 100 day python challenge on udemy!
 
--I do not accept Job invites as I am under 18.
-
-I am well known as Crispydogs101 on scratch. But this is where I do the harder stuff.
+#100daysofcode
